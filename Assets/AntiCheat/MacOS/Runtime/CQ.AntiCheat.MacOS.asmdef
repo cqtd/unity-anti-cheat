@@ -1,0 +1,18 @@
+{
+    "name": "CQ.AntiCheat.MacOS",
+    "references": [
+        "GUID:5998478e55246ff408135e8981d263b2"
+    ],
+    "includePlatforms": [
+        "Editor",
+        "macOSStandalone"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

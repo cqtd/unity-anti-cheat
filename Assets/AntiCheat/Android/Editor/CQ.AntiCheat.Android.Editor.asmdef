@@ -1,0 +1,19 @@
+{
+    "name": "CQ.AntiCheat.Android.Editor",
+    "references": [
+        "GUID:5998478e55246ff408135e8981d263b2",
+        "GUID:91afc82bc6fa2e64a9a3c1c2d5062d0e",
+        "GUID:d9833ad658d5bc74f93f062963e96cba"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

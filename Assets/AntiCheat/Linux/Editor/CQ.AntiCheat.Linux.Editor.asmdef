@@ -1,0 +1,19 @@
+{
+    "name": "CQ.AntiCheat.Linux.Editor",
+    "references": [
+        "GUID:5998478e55246ff408135e8981d263b2",
+        "GUID:91afc82bc6fa2e64a9a3c1c2d5062d0e",
+        "GUID:48ebdb476496cec42a8e83b1d9902d6e"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
